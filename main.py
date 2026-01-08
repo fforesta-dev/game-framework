@@ -62,6 +62,7 @@ class SnakeGame(arcade.Window):
     """Main window class for the Snake game."""
 
     def __init__(self):
+        """Initialize the Snake game window with default settings and initial game state."""
         super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
         arcade.set_background_color(arcade.color.BLACK)
 
