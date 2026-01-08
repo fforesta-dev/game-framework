@@ -6,7 +6,7 @@ The software is a 2D Snake-style arcade game built using Python and the Arcade f
 
 The purpose of writing this software was to gain hands-on experience with a Python-based game framework and to better understand how game loops, timing, input handling, and rendering work together in a real-time application. This project helped reinforce core programming concepts while applying them in a practical and engaging way.
 
-[Software Demo Video](PUT-YOUR-VIDEO-LINK-HERE)
+[Software Demo Video](https://youtu.be/aykXpQkhkLk)
 
 # Development Environment
 

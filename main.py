@@ -48,7 +48,7 @@ def random_grid_position(excluded: set[tuple[int, int]]) -> tuple[int, int]:
         row = random.randrange(0, GRID_ROWS)
         pos = (col, row)
 
-        screen_x, screen_y = (
+        screen_x, screen_y = (  # noqa: F841
             pos[0] * CELL_SIZE + CELL_SIZE / 2,
             pos[1] * CELL_SIZE + CELL_SIZE / 2,
         )
